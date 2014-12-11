@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data-providers>
+  <provider id="DPOAITESTr0">
+    <name>DP_OAI_TEST</name>
+    <country>pt</country>
+    <description>DP_description</description>
+    <source id="DS_OAI_TEST" metadataFormat="ese" schema="http://www.europeana.eu/schemas/ese/ESE-V3.3.xsd" namespace="http://www.europeana.eu/schemas/ese/" lastIngest="" isSample="false" sample="-1" status="" type="DataSourceOai">
+      <description>DS_description</description>
+      <exportDirPath>D:\Projectos\REPOX\repox-core\src\test\resources\repoxTest\repository\DS_OAI_TEST\export</exportDirPath>
+      <recordIdPolicy type="IdProvided"/>
+      <oai-source>http://bd1.inesc-id.pt:8080/repoxel/OAIHandler</oai-source>
+      <oai-set>bmfinancas</oai-set>
+      <metadataTransformations/>
+      <restServices/>
+    </source>
+  </provider>
+</data-providers>

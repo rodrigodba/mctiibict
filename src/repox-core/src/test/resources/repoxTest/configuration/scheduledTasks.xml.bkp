@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scheduledTasks>
+  <scheduledTask id="1_2">
+    <time>2009-01-01 00:00</time>
+    <frequency type="ONCE"/>
+    <runnable class="pt.utl.ist.repox.task.IngestDataSource"/>
+    <parameters>
+      <parameter>1</parameter>
+      <parameter>false</parameter>
+    </parameters>
+  </scheduledTask>
+</scheduledTasks>

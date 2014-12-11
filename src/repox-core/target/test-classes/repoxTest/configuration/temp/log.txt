@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<report>
+  <deleted>0</deleted>
+  <records>100</records>
+  <duration>00:00:00</duration>
+  <endTime>2013-05-23 15:23:47</endTime>
+  <startTime>2013-05-23 15:23:47</startTime>
+  <dataSetId>DS_DIMPORTER</dataSetId>
+  <status>OK</status>
+  <summary>
+    <info time="2013-05-23 15:23:12 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">Importing from directory: src/test/resources/repoxTest/[temp]FTP_Requests\bd1.inesc-id.pt-DS_FTP</info>
+    <info time="2013-05-23 15:23:14 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">Importing zip entry: 09428_Ag_DE_ELocal2.xml</info>
+    <info time="2013-05-23 15:23:16 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">1000 records imported</info>
+    <info time="2013-05-23 15:23:17 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">Importing zip entry: a0210-1.xml</info>
+    <info time="2013-05-23 15:23:19 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">849 records imported</info>
+    <info time="2013-05-23 15:23:41 BST" class="pt.utl.ist.repox.z3950.DataSourceZ3950">Importing from Z39.50 Source: aleph.lbfl.li using IdSequenceHarvester</info>
+    <info time="2013-05-23 15:23:41 BST" class="pt.utl.ist.repox.z3950.IdSequenceHarvester$RecordIterator">Harvesting ID: 1</info>
+    <info time="2013-05-23 15:23:44 BST" class="pt.utl.ist.repox.z3950.DataSourceZ3950">10 records imported</info>
+    <info time="2013-05-23 15:23:44 BST" class="pt.utl.ist.repox.oai.Harvester">Starting OAI Harvest URL: http://bd1.inesc-id.pt:8080/repoxel/OAIHandler - Set:bmfinancas</info>
+    <info time="2013-05-23 15:23:44 BST" class="pt.utl.ist.repox.oai.Harvester">sourceUrl: http://bd1.inesc-id.pt:8080/repoxel/OAIHandler, sourceSet: bmfinancas, outputBaseDir: src/test/resources/repoxTest/[temp]OAI-PMH_Requests\bd1.inesc-id.pt_8080-bmfinancas, fromDateString: null, untilDateString: null, metadataFormat: ese</info>
+    <info time="2013-05-23 15:23:46 BST" class="pt.utl.ist.repox.oai.Harvester">Harvest finished - number of requests: 1</info>
+    <info time="2013-05-23 15:23:46 BST" class="pt.utl.ist.repox.oai.Harvester">Finished OAI Harvest URL: http://bd1.inesc-id.pt:8080/repoxel/OAIHandler - Set:bmfinancas</info>
+    <info time="2013-05-23 15:23:46 BST" class="pt.utl.ist.repox.oai.ResponseTransformer">Starting to split OAI-PMH request to Record Files</info>
+    <info time="2013-05-23 15:23:47 BST" class="pt.utl.ist.repox.oai.ResponseTransformer">Finished splitting OAI-PMH request to List</info>
+    <info time="2013-05-23 15:23:47 BST" class="pt.utl.ist.repox.oai.DataSourceOai">Ingest Process ended. Exiting.</info>
+    <info time="2013-05-23 15:23:47 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">Importing from directory: src/test/resources/directoryImportTest</info>
+    <info time="2013-05-23 15:23:47 BST" class="pt.utl.ist.repox.marc.Iso2709FileExtract$RecordIterator">Created Iterator for file: records.iso</info>
+    <info time="2013-05-23 15:23:47 BST" class="pt.utl.ist.repox.marc.DataSourceDirectoryImporter">100 records imported</info>
+  </summary>
+</report>

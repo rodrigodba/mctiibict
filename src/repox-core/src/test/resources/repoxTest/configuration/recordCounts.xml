@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recordcounts>
+  <recordcount>
+    <dataSourceId>DS_OAI_TEST</dataSourceId>
+    <count>0</count>
+    <lastLineCounted>0</lastLineCounted>
+    <deletedRecords>0</deletedRecords>
+    <lastCountDate>2013-05-23 15:24:52</lastCountDate>
+    <lastCountWithChangesDate>2013-05-23 15:23:08</lastCountWithChangesDate>
+  </recordcount>
+</recordcounts>

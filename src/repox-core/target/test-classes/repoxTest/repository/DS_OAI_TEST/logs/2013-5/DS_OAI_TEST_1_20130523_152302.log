@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<report>
+  <status>ERROR</status>
+  <dataSetId>DS_OAI_TEST</dataSetId>
+  <startTime>2013-05-23 15:23:02</startTime>
+  <endTime>2013-05-23 15:23:08</endTime>
+  <duration>00:00:05</duration>
+  <records>0</records>
+  <deleted>0</deleted>
+  <summary>
+    <info time="2013-05-23 15:23:02 BST" class="pt.utl.ist.repox.oai.DataSourceOai">Starting to import from Data Source with id DS_OAI_TEST</info>
+    <info time="2013-05-23 15:23:03 BST" class="pt.utl.ist.repox.oai.Harvester">Starting OAI Harvest URL: http://bd1.inesc-id.pt:8080/repoxel/OAIHandler - Set:bmfinancas</info>
+    <info time="2013-05-23 15:23:03 BST" class="pt.utl.ist.repox.oai.Harvester">sourceUrl: http://bd1.inesc-id.pt:8080/repoxel/OAIHandler, sourceSet: bmfinancas, outputBaseDir: src/test/resources/repoxTest/[temp]OAI-PMH_Requests\bd1.inesc-id.pt_8080-bmfinancas, fromDateString: null, untilDateString: null, metadataFormat: ese</info>
+    <info time="2013-05-23 15:23:07 BST" class="pt.utl.ist.repox.oai.Harvester">Harvest finished - number of requests: 1</info>
+    <info time="2013-05-23 15:23:07 BST" class="pt.utl.ist.repox.oai.Harvester">Finished OAI Harvest URL: http://bd1.inesc-id.pt:8080/repoxel/OAIHandler - Set:bmfinancas</info>
+  </summary>
+</report>

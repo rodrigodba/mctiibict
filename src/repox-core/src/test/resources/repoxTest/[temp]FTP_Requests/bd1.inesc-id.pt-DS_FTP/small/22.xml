@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="info:lc/xmlns/marcxchange-v1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/marcxchange-v1 info:lc/xmlns/marcxchange-v1.xsd">
+    <record format="Unimarc">
+        <leader>00551nam  22001451  450 </leader>
+        <datafield ind1=" " ind2=" " tag="100">
+            <subfield code="a">19930823d1891    k   0pory0103    ba</subfield>
+        </datafield>
+        <datafield ind1="0" ind2=" " tag="101">
+            <subfield code="a">eng</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="102">
+            <subfield code="a">GB</subfield>
+        </datafield>
+        <datafield ind1="1" ind2=" " tag="200">
+            <subfield code="a">&lt;A &gt;translation of the treatise chagigah from the babylonian talmud</subfield>
+            <subfield code="e">with introduction, notes, glossary and indices</subfield>
+            <subfield code="f">rev. A. W. Streane</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="210">
+            <subfield code="a">Cambridge</subfield>
+            <subfield code="c">The University Press</subfield>
+            <subfield code="d">1891</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="215">
+            <subfield code="a">XVI, 166 p.</subfield>
+            <subfield code="d">23 cm</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="606">
+            <subfield code="a">Babilónia</subfield>
+            <subfield code="x">Talmud</subfield>
+            <subfield code="2">SIPOR</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="606">
+            <subfield code="a">Talmud babilónico</subfield>
+            <subfield code="2">SIPOR</subfield>
+        </datafield>
+        <datafield ind1=" " ind2="1" tag="702">
+            <subfield code="a">Streane</subfield>
+            <subfield code="b">A. W.</subfield>
+            <subfield code="4">640</subfield>
+        </datafield>
+        <datafield ind1=" " ind2=" " tag="966">
+            <subfield code="a">22P</subfield>
+            <subfield code="l">CMLPESSOA</subfield>
+            <subfield code="n">Assinado na guarda J. Nogueira Pessoa</subfield>
+            <subfield code="s">22</subfield>
+        </datafield>
+    </record>
+</collection>

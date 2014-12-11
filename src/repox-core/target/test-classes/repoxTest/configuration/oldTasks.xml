@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<old-tasks>
+  <oldTask id="DS_OAI_TEST_fdf2e239-ac2a-419a-b81a-b08f4c9e65d2">
+    <time>2013-5-23 15:23</time>
+    <dataSourceSet>DS_OAI_TEST</dataSourceSet>
+    <logName>2013-5\DS_OAI_TEST_1_20130523_152302.log</logName>
+    <ingestType>incrementalIngest</ingestType>
+    <status>ERROR</status>
+    <records>0</records>
+    <retries max="3" delay="300">0</retries>
+  </oldTask>
+</old-tasks>
